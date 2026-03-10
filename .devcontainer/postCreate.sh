@@ -1,1 +1,2 @@
-"postCreateCommand": ".devcontainer/postCreate.sh"
+#!/bin/bash
+echo "Devcontainer setup complete"
